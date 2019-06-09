@@ -5,7 +5,8 @@ This project was done with Brad Travery's course and is a learning material.
 
 ## For Local Setup
   1. Clone/Fork
-  2. Run `npm install` then `npm start`
+  2. Open with editor, add your own api id & secret in the env.local
+  3. Run `npm install` then `npm start`
   
 ## Demo
 https://githubfinderdev.netlify.com
